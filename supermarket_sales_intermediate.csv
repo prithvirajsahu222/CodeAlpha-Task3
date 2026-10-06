@@ -1,0 +1,601 @@
+Date,City,Category,Gender,Payment_Method,Quantity,Unit_Price,Sales,Profit
+2025-01-02,Jabalpur,Electronics,Male,E-wallet,2,632.02,1264.04,141.08
+2025-01-03,Indore,Electronics,Female,Card,1,1116.32,1116.32,219.86
+2025-01-03,Jabalpur,Beauty,Male,UPI,2,369.1,738.2,87.12
+2025-01-03,Bhopal,Sports,Female,E-wallet,3,540.03,1620.09,316.3
+2025-01-04,Bhopal,Sports,Female,Card,7,528.16,3697.12,392.15
+2025-01-06,Bhopal,Home & Kitchen,Male,Card,4,391.3,1565.2,122.31
+2025-01-07,Bhopal,Electronics,Female,Card,4,825.39,3301.56,738.33
+2025-01-07,Bhopal,Beauty,Male,UPI,4,235.42,941.68,107.27
+2025-01-08,Indore,Home & Kitchen,Female,UPI,3,673.29,2019.87,130.82
+2025-01-08,Bhopal,Clothing,Female,Cash,7,884.14,6188.98,948.74
+2025-01-08,Bhopal,Home & Kitchen,Female,UPI,4,329.47,1317.88,151.09
+2025-01-09,Bhopal,Home & Kitchen,Male,Card,4,723.22,2892.88,488.16
+2025-01-09,Jabalpur,Beauty,Male,Cash,7,352.74,2469.18,412.49
+2025-01-09,Ujjain,Clothing,Female,Card,3,859.88,2579.64,217.49
+2025-01-10,Indore,Clothing,Female,Cash,6,845.01,5070.06,1147.72
+2025-01-10,Gwalior,Home & Kitchen,Female,Cash,2,453.33,906.66,60.13
+2025-01-12,Gwalior,Home & Kitchen,Female,UPI,3,475.91,1427.73,100.27
+2025-01-12,Jabalpur,Home & Kitchen,Female,UPI,5,411.65,2058.25,198.58
+2025-01-13,Bhopal,Sports,Male,Card,1,784.27,784.27,150.83
+2025-01-14,Indore,Electronics,Male,UPI,7,651.67,4561.69,404.66
+2025-01-14,Jabalpur,Electronics,Male,Card,1,645.43,645.43,137.33
+2025-01-16,Jabalpur,Clothing,Male,Card,7,862.6,6038.2,875.92
+2025-01-16,Jabalpur,Beauty,Male,Cash,6,499.04,2994.24,451.26
+2025-01-16,Ujjain,Home & Kitchen,Male,E-wallet,3,540.0,1620.0,241.7
+2025-01-17,Indore,Sports,Male,Card,1,676.07,676.07,54.69
+2025-01-17,Indore,Beauty,Male,Cash,7,402.99,2820.93,207.23
+2025-01-18,Indore,Clothing,Male,E-wallet,7,906.41,6344.87,889.75
+2025-01-19,Indore,Clothing,Female,Cash,6,737.75,4426.5,841.24
+2025-01-20,Indore,Sports,Male,UPI,3,541.54,1624.62,235.2
+2025-01-21,Indore,Beauty,Female,Card,4,289.8,1159.2,183.08
+2025-01-22,Indore,Home & Kitchen,Female,Cash,3,442.58,1327.74,123.59
+2025-01-24,Indore,Sports,Male,Card,7,685.59,4799.13,567.68
+2025-01-24,Bhopal,Home & Kitchen,Male,Cash,1,707.79,707.79,132.43
+2025-01-25,Jabalpur,Beauty,Female,Card,3,362.29,1086.87,211.84
+2025-01-25,Gwalior,Home & Kitchen,Male,UPI,7,666.76,4667.32,424.68
+2025-01-25,Indore,Clothing,Male,Card,2,779.66,1559.32,247.65
+2025-01-28,Bhopal,Clothing,Male,Card,1,730.01,730.01,139.94
+2025-01-29,Gwalior,Clothing,Male,UPI,4,525.19,2100.76,260.21
+2025-01-29,Indore,Clothing,Male,Card,6,897.49,5384.94,848.2
+2025-01-30,Gwalior,Clothing,Male,Card,5,615.79,3078.95,188.66
+2025-01-31,Jabalpur,Clothing,Female,Card,2,537.92,1075.84,173.48
+2025-01-31,Ujjain,Clothing,Male,UPI,3,880.94,2642.82,423.17
+2025-01-31,Bhopal,Clothing,Male,Card,4,600.02,2400.08,189.48
+2025-02-01,Bhopal,Clothing,Male,UPI,7,711.56,4980.92,827.82
+2025-02-01,Bhopal,Home & Kitchen,Male,Cash,4,690.33,2761.32,358.56
+2025-02-02,Ujjain,Home & Kitchen,Male,E-wallet,2,548.03,1096.06,198.34
+2025-02-02,Bhopal,Beauty,Male,UPI,5,394.5,1972.5,412.76
+2025-02-03,Ujjain,Home & Kitchen,Male,UPI,7,601.2,4208.4,326.98
+2025-02-03,Ujjain,Home & Kitchen,Male,UPI,6,594.66,3567.96,649.47
+2025-02-03,Gwalior,Home & Kitchen,Male,Cash,5,559.47,2797.35,295.68
+2025-02-04,Jabalpur,Beauty,Female,Cash,5,388.46,1942.3,437.89
+2025-02-04,Jabalpur,Clothing,Female,Card,6,606.96,3641.76,496.67
+2025-02-04,Ujjain,Electronics,Female,Card,5,1186.22,5931.1,1157.46
+2025-02-04,Bhopal,Clothing,Female,Cash,6,741.57,4449.42,880.24
+2025-02-05,Jabalpur,Beauty,Male,Card,5,443.8,2219.0,215.12
+2025-02-05,Jabalpur,Beauty,Female,UPI,2,468.55,937.1,58.42
+2025-02-06,Ujjain,Electronics,Male,UPI,1,925.74,925.74,136.23
+2025-02-07,Jabalpur,Home & Kitchen,Male,Card,1,675.04,675.04,49.46
+2025-02-07,Jabalpur,Home & Kitchen,Male,Card,1,551.19,551.19,63.7
+2025-02-08,Ujjain,Sports,Male,Card,3,401.28,1203.84,159.27
+2025-02-08,Ujjain,Clothing,Male,Cash,4,430.72,1722.88,409.33
+2025-02-08,Ujjain,Clothing,Female,Cash,4,660.61,2642.44,535.18
+2025-02-08,Bhopal,Sports,Male,UPI,4,425.69,1702.76,333.68
+2025-02-09,Ujjain,Home & Kitchen,Female,UPI,5,647.98,3239.9,447.52
+2025-02-09,Indore,Clothing,Female,UPI,7,756.76,5297.32,386.08
+2025-02-09,Jabalpur,Sports,Female,UPI,1,357.94,357.94,57.83
+2025-02-11,Indore,Beauty,Male,E-wallet,7,335.01,2345.07,315.47
+2025-02-11,Gwalior,Sports,Male,E-wallet,1,452.16,452.16,49.34
+2025-02-12,Ujjain,Clothing,Male,UPI,7,460.18,3221.26,375.75
+2025-02-12,Ujjain,Sports,Male,Card,3,395.29,1185.87,197.56
+2025-02-13,Bhopal,Electronics,Female,Cash,1,1215.16,1215.16,229.75
+2025-02-13,Ujjain,Home & Kitchen,Male,E-wallet,2,487.74,975.48,75.05
+2025-02-13,Ujjain,Sports,Male,UPI,1,467.35,467.35,73.98
+2025-02-14,Indore,Clothing,Male,E-wallet,5,782.28,3911.4,717.13
+2025-02-14,Ujjain,Electronics,Male,UPI,5,958.27,4791.35,966.04
+2025-02-15,Jabalpur,Home & Kitchen,Male,Card,6,582.27,3493.62,562.99
+2025-02-16,Indore,Sports,Male,UPI,6,743.59,4461.54,487.93
+2025-02-16,Gwalior,Sports,Female,UPI,7,368.52,2579.64,187.39
+2025-02-16,Indore,Home & Kitchen,Male,UPI,3,536.05,1608.15,122.99
+2025-02-17,Bhopal,Clothing,Male,UPI,2,852.23,1704.46,178.32
+2025-02-17,Ujjain,Clothing,Male,UPI,3,692.77,2078.31,395.38
+2025-02-18,Gwalior,Sports,Female,Card,7,550.32,3852.24,259.17
+2025-02-18,Bhopal,Sports,Male,Card,4,375.08,1500.32,104.71
+2025-02-21,Gwalior,Beauty,Male,Cash,3,290.98,872.94,158.18
+2025-02-21,Ujjain,Electronics,Male,UPI,5,909.69,4548.45,919.33
+2025-02-21,Indore,Clothing,Female,Card,1,681.77,681.77,61.76
+2025-02-21,Indore,Beauty,Female,UPI,3,358.65,1075.95,73.73
+2025-02-21,Indore,Sports,Female,Card,3,672.81,2018.43,447.46
+2025-02-21,Bhopal,Home & Kitchen,Female,Cash,4,482.38,1929.52,291.68
+2025-02-22,Bhopal,Clothing,Male,E-wallet,7,728.34,5098.38,446.8
+2025-02-22,Ujjain,Beauty,Female,Card,4,432.19,1728.76,182.05
+2025-02-22,Indore,Clothing,Female,Cash,1,904.51,904.51,185.17
+2025-02-23,Bhopal,Home & Kitchen,Female,Card,6,327.99,1967.94,425.63
+2025-02-24,Jabalpur,Clothing,Female,Card,1,766.15,766.15,175.27
+2025-02-25,Jabalpur,Electronics,Male,Cash,1,1121.12,1121.12,119.2
+2025-02-25,Gwalior,Home & Kitchen,Female,Cash,4,484.46,1937.84,340.09
+2025-02-25,Gwalior,Sports,Female,E-wallet,2,740.16,1480.32,238.2
+2025-02-25,Gwalior,Home & Kitchen,Male,Cash,3,479.17,1437.51,155.73
+2025-02-26,Indore,Clothing,Female,UPI,6,715.33,4291.98,623.31
+2025-02-26,Gwalior,Home & Kitchen,Female,UPI,3,513.72,1541.16,313.1
+2025-02-26,Gwalior,Beauty,Female,UPI,1,255.83,255.83,22.33
+2025-02-28,Indore,Home & Kitchen,Female,E-wallet,2,668.59,1337.18,168.01
+2025-02-28,Jabalpur,Electronics,Male,E-wallet,4,714.87,2859.48,495.05
+2025-02-28,Bhopal,Beauty,Male,Card,2,257.11,514.22,91.88
+2025-03-02,Gwalior,Sports,Female,Cash,1,401.48,401.48,37.72
+2025-03-02,Jabalpur,Electronics,Female,UPI,3,831.6,2494.8,427.98
+2025-03-02,Ujjain,Home & Kitchen,Female,Cash,5,408.05,2040.25,128.47
+2025-03-02,Gwalior,Electronics,Female,E-wallet,3,1230.91,3692.73,473.96
+2025-03-02,Ujjain,Electronics,Male,Card,7,574.9,4024.3,525.93
+2025-03-02,Ujjain,Home & Kitchen,Male,UPI,2,458.74,917.48,175.11
+2025-03-04,Gwalior,Clothing,Female,UPI,3,628.71,1886.13,349.5
+2025-03-05,Jabalpur,Sports,Male,Card,1,377.28,377.28,67.38
+2025-03-05,Indore,Home & Kitchen,Male,E-wallet,1,367.38,367.38,59.43
+2025-03-05,Jabalpur,Clothing,Male,E-wallet,3,510.2,1530.6,153.89
+2025-03-06,Indore,Clothing,Male,Card,7,547.98,3835.86,563.99
+2025-03-07,Bhopal,Clothing,Female,UPI,7,938.91,6572.37,1543.49
+2025-03-07,Ujjain,Home & Kitchen,Female,Card,4,523.81,2095.24,417.57
+2025-03-07,Gwalior,Sports,Female,Cash,1,390.56,390.56,72.55
+2025-03-08,Bhopal,Electronics,Female,Cash,6,1185.38,7112.28,824.07
+2025-03-08,Indore,Clothing,Male,E-wallet,6,820.47,4922.82,715.6
+2025-03-08,Bhopal,Home & Kitchen,Male,Cash,2,561.87,1123.74,104.73
+2025-03-10,Indore,Electronics,Male,E-wallet,4,1105.96,4423.84,481.16
+2025-03-11,Indore,Clothing,Male,Card,4,871.84,3487.36,814.38
+2025-03-12,Indore,Clothing,Female,UPI,7,506.24,3543.68,282.57
+2025-03-13,Gwalior,Home & Kitchen,Male,Cash,3,650.95,1952.85,428.57
+2025-03-13,Indore,Electronics,Male,Cash,3,1042.25,3126.75,242.5
+2025-03-13,Ujjain,Home & Kitchen,Female,Cash,1,466.32,466.32,37.23
+2025-03-14,Jabalpur,Electronics,Male,UPI,3,1055.07,3165.21,491.11
+2025-03-14,Gwalior,Sports,Male,UPI,5,658.03,3290.15,313.14
+2025-03-15,Gwalior,Home & Kitchen,Male,Card,4,697.73,2790.92,516.88
+2025-03-15,Bhopal,Clothing,Female,Card,2,593.99,1187.98,88.28
+2025-03-15,Gwalior,Beauty,Female,UPI,6,425.37,2552.22,287.43
+2025-03-20,Indore,Electronics,Male,UPI,3,849.65,2548.95,232.32
+2025-03-23,Gwalior,Electronics,Female,E-wallet,1,620.85,620.85,102.64
+2025-03-24,Ujjain,Clothing,Female,Cash,6,522.87,3137.22,533.24
+2025-03-24,Ujjain,Electronics,Female,UPI,7,1040.98,7286.86,521.76
+2025-03-25,Indore,Sports,Male,E-wallet,4,498.5,1994.0,428.57
+2025-03-25,Jabalpur,Home & Kitchen,Female,UPI,3,674.3,2022.9,170.16
+2025-03-26,Indore,Clothing,Female,Cash,4,807.72,3230.88,686.36
+2025-03-26,Ujjain,Clothing,Female,Card,6,537.85,3227.1,629.13
+2025-03-27,Ujjain,Home & Kitchen,Female,Card,2,394.17,788.34,148.29
+2025-03-28,Gwalior,Sports,Male,Card,3,607.34,1822.02,200.52
+2025-03-28,Indore,Beauty,Female,Card,1,447.22,447.22,59.56
+2025-03-28,Bhopal,Sports,Female,Cash,2,596.39,1192.78,245.94
+2025-03-29,Jabalpur,Clothing,Female,Card,7,583.46,4084.22,837.58
+2025-03-29,Indore,Home & Kitchen,Female,E-wallet,3,505.44,1516.32,130.09
+2025-03-29,Jabalpur,Clothing,Female,Card,5,605.23,3026.15,484.88
+2025-03-29,Gwalior,Beauty,Male,Cash,4,382.13,1528.52,114.7
+2025-03-31,Jabalpur,Clothing,Female,E-wallet,7,869.99,6089.93,685.37
+2025-03-31,Gwalior,Electronics,Female,UPI,6,925.56,5553.36,603.71
+2025-04-01,Bhopal,Electronics,Female,Card,4,591.67,2366.68,487.04
+2025-04-02,Indore,Clothing,Female,UPI,5,708.33,3541.65,746.93
+2025-04-02,Bhopal,Beauty,Male,Cash,1,306.87,306.87,45.09
+2025-04-04,Gwalior,Sports,Female,Card,6,701.91,4211.46,762.02
+2025-04-06,Gwalior,Clothing,Male,E-wallet,3,492.82,1478.46,342.66
+2025-04-06,Gwalior,Electronics,Male,UPI,1,1155.42,1155.42,142.47
+2025-04-07,Jabalpur,Home & Kitchen,Female,E-wallet,2,591.42,1182.84,94.28
+2025-04-08,Bhopal,Beauty,Female,Card,7,267.86,1875.02,253.14
+2025-04-08,Indore,Clothing,Female,UPI,2,620.78,1241.56,235.5
+2025-04-09,Indore,Home & Kitchen,Female,E-wallet,6,694.15,4164.9,760.71
+2025-04-10,Indore,Electronics,Male,UPI,4,888.6,3554.4,691.77
+2025-04-11,Ujjain,Beauty,Female,Card,4,322.62,1290.48,308.79
+2025-04-11,Ujjain,Electronics,Male,Card,6,810.31,4861.86,920.21
+2025-04-11,Ujjain,Home & Kitchen,Female,Card,4,645.23,2580.92,463.62
+2025-04-12,Indore,Electronics,Male,Cash,6,849.75,5098.5,475.06
+2025-04-12,Jabalpur,Beauty,Female,UPI,6,421.68,2530.08,384.6
+2025-04-12,Bhopal,Home & Kitchen,Male,Card,4,510.04,2040.16,233.24
+2025-04-13,Gwalior,Home & Kitchen,Female,UPI,7,596.79,4177.53,770.97
+2025-04-13,Ujjain,Sports,Female,UPI,7,418.88,2932.16,501.38
+2025-04-13,Jabalpur,Sports,Female,UPI,4,577.18,2308.72,387.25
+2025-04-14,Bhopal,Sports,Female,UPI,2,413.9,827.8,95.42
+2025-04-14,Ujjain,Home & Kitchen,Female,Card,2,677.76,1355.52,121.44
+2025-04-14,Jabalpur,Sports,Male,Card,2,530.55,1061.1,155.2
+2025-04-15,Gwalior,Beauty,Male,UPI,2,332.91,665.82,138.42
+2025-04-16,Jabalpur,Electronics,Female,UPI,5,1223.45,6117.25,509.23
+2025-04-16,Ujjain,Clothing,Female,Card,7,694.01,4858.07,333.0
+2025-04-16,Jabalpur,Clothing,Female,UPI,3,506.67,1520.01,212.17
+2025-04-17,Ujjain,Beauty,Male,Card,5,463.93,2319.65,482.3
+2025-04-18,Gwalior,Electronics,Male,Card,3,1198.5,3595.5,295.84
+2025-04-18,Bhopal,Clothing,Male,E-wallet,3,741.93,2225.79,518.04
+2025-04-19,Indore,Home & Kitchen,Male,E-wallet,5,498.84,2494.2,175.38
+2025-04-20,Jabalpur,Electronics,Female,Cash,1,846.94,846.94,79.46
+2025-04-20,Bhopal,Beauty,Male,Cash,5,337.84,1689.2,123.18
+2025-04-20,Ujjain,Home & Kitchen,Female,Card,1,659.95,659.95,44.2
+2025-04-21,Ujjain,Home & Kitchen,Male,Cash,5,485.95,2429.75,271.88
+2025-04-21,Jabalpur,Sports,Female,UPI,3,750.19,2250.57,160.1
+2025-04-21,Bhopal,Electronics,Male,E-wallet,3,950.71,2852.13,561.82
+2025-04-22,Gwalior,Clothing,Female,Card,7,642.2,4495.4,923.4
+2025-04-23,Ujjain,Electronics,Female,E-wallet,3,1112.1,3336.3,413.49
+2025-04-24,Gwalior,Electronics,Female,UPI,5,929.93,4649.65,300.91
+2025-04-24,Ujjain,Electronics,Female,Cash,4,953.56,3814.24,525.67
+2025-04-24,Bhopal,Clothing,Female,Card,6,823.11,4938.66,872.33
+2025-04-25,Gwalior,Clothing,Male,Card,6,543.43,3260.58,594.19
+2025-04-25,Gwalior,Sports,Female,Card,6,710.69,4264.14,604.02
+2025-04-26,Bhopal,Beauty,Male,UPI,6,375.8,2254.8,493.72
+2025-04-26,Indore,Beauty,Male,Card,2,275.21,550.42,92.43
+2025-04-26,Ujjain,Sports,Male,Cash,5,654.65,3273.25,577.84
+2025-04-27,Bhopal,Electronics,Male,UPI,3,594.19,1782.57,274.9
+2025-04-27,Gwalior,Sports,Female,UPI,7,759.39,5315.73,815.76
+2025-04-27,Jabalpur,Beauty,Female,Card,3,244.3,732.9,110.72
+2025-04-28,Jabalpur,Beauty,Female,Card,7,370.94,2596.58,161.62
+2025-04-28,Indore,Home & Kitchen,Female,Card,2,341.5,683.0,52.81
+2025-04-28,Gwalior,Beauty,Female,E-wallet,3,385.14,1155.42,78.56
+2025-04-29,Gwalior,Clothing,Male,UPI,7,804.19,5629.33,789.71
+2025-05-01,Ujjain,Sports,Male,E-wallet,5,685.12,3425.6,507.04
+2025-05-01,Indore,Sports,Male,Cash,1,420.42,420.42,50.76
+2025-05-02,Ujjain,Beauty,Male,UPI,7,234.28,1639.96,298.06
+2025-05-02,Bhopal,Home & Kitchen,Male,UPI,2,719.78,1439.56,213.75
+2025-05-03,Bhopal,Electronics,Male,Card,5,662.51,3312.55,731.04
+2025-05-03,Ujjain,Electronics,Female,Cash,7,997.9,6985.3,515.48
+2025-05-04,Indore,Clothing,Male,UPI,1,912.6,912.6,80.1
+2025-05-06,Gwalior,Clothing,Female,UPI,3,468.64,1405.92,224.81
+2025-05-07,Ujjain,Beauty,Female,E-wallet,6,230.97,1385.82,276.95
+2025-05-07,Ujjain,Electronics,Female,Card,7,600.18,4201.26,829.39
+2025-05-10,Ujjain,Home & Kitchen,Male,Cash,1,540.78,540.78,76.0
+2025-05-11,Bhopal,Electronics,Female,Cash,5,1232.09,6160.45,947.2
+2025-05-13,Ujjain,Home & Kitchen,Female,UPI,5,600.5,3002.5,689.53
+2025-05-13,Jabalpur,Clothing,Female,Cash,1,487.19,487.19,90.61
+2025-05-13,Gwalior,Home & Kitchen,Male,Cash,7,581.62,4071.34,719.49
+2025-05-14,Ujjain,Beauty,Female,Card,3,342.64,1027.92,202.57
+2025-05-14,Ujjain,Electronics,Female,Card,3,613.98,1841.94,191.57
+2025-05-15,Indore,Clothing,Male,E-wallet,1,807.21,807.21,189.97
+2025-05-16,Ujjain,Beauty,Male,Cash,1,311.15,311.15,34.07
+2025-05-16,Jabalpur,Home & Kitchen,Male,E-wallet,7,562.38,3936.66,365.12
+2025-05-16,Jabalpur,Home & Kitchen,Male,Card,4,404.19,1616.76,313.04
+2025-05-17,Jabalpur,Beauty,Male,UPI,7,241.19,1688.33,150.89
+2025-05-17,Ujjain,Sports,Male,UPI,1,718.09,718.09,93.11
+2025-05-17,Gwalior,Electronics,Male,UPI,1,691.23,691.23,135.82
+2025-05-19,Jabalpur,Electronics,Female,E-wallet,2,729.12,1458.24,206.9
+2025-05-20,Indore,Clothing,Male,Card,1,508.82,508.82,109.67
+2025-05-22,Jabalpur,Home & Kitchen,Male,Card,1,694.32,694.32,162.21
+2025-05-24,Jabalpur,Electronics,Female,Card,2,1080.65,2161.3,344.89
+2025-05-26,Ujjain,Clothing,Male,UPI,7,446.24,3123.68,522.66
+2025-05-27,Bhopal,Beauty,Female,Card,4,246.71,986.84,106.63
+2025-05-28,Bhopal,Electronics,Male,Card,6,597.62,3585.72,805.8
+2025-05-29,Ujjain,Clothing,Female,Cash,7,691.12,4837.84,912.83
+2025-05-30,Bhopal,Sports,Female,UPI,4,686.06,2744.24,235.08
+2025-05-30,Bhopal,Electronics,Male,UPI,2,722.38,1444.76,103.24
+2025-05-30,Ujjain,Home & Kitchen,Female,UPI,5,413.7,2068.5,263.33
+2025-05-30,Ujjain,Sports,Male,UPI,4,747.97,2991.88,640.05
+2025-05-31,Ujjain,Clothing,Female,UPI,6,468.49,2810.94,581.71
+2025-06-01,Ujjain,Electronics,Male,UPI,6,995.05,5970.3,509.15
+2025-06-01,Gwalior,Electronics,Male,UPI,2,1095.65,2191.3,447.78
+2025-06-02,Gwalior,Electronics,Male,Card,3,1219.42,3658.26,321.03
+2025-06-02,Ujjain,Home & Kitchen,Male,Card,5,566.58,2832.9,476.34
+2025-06-02,Gwalior,Electronics,Female,Card,3,623.39,1870.17,209.23
+2025-06-02,Jabalpur,Sports,Female,UPI,6,613.58,3681.48,687.48
+2025-06-05,Ujjain,Beauty,Male,UPI,1,345.12,345.12,73.77
+2025-06-06,Indore,Clothing,Male,UPI,6,591.19,3547.14,519.35
+2025-06-07,Indore,Home & Kitchen,Female,UPI,2,333.1,666.2,106.21
+2025-06-07,Bhopal,Electronics,Female,UPI,7,694.81,4863.67,541.21
+2025-06-08,Bhopal,Home & Kitchen,Male,Card,1,708.64,708.64,154.11
+2025-06-08,Bhopal,Sports,Female,Cash,3,712.04,2136.12,160.65
+2025-06-08,Bhopal,Beauty,Male,E-wallet,2,319.56,639.12,97.7
+2025-06-08,Gwalior,Electronics,Male,E-wallet,1,1017.51,1017.51,74.96
+2025-06-08,Ujjain,Electronics,Male,E-wallet,4,746.45,2985.8,279.19
+2025-06-08,Gwalior,Clothing,Male,Card,4,464.51,1858.04,221.5
+2025-06-09,Indore,Sports,Male,Card,7,460.83,3225.81,259.69
+2025-06-09,Indore,Home & Kitchen,Female,Card,4,528.89,2115.56,270.32
+2025-06-10,Indore,Home & Kitchen,Female,Card,5,390.28,1951.4,174.05
+2025-06-10,Ujjain,Home & Kitchen,Male,UPI,3,337.86,1013.58,151.49
+2025-06-10,Indore,Home & Kitchen,Female,UPI,1,682.02,682.02,132.46
+2025-06-11,Ujjain,Clothing,Female,Cash,1,816.32,816.32,104.52
+2025-06-11,Bhopal,Sports,Male,UPI,4,483.04,1932.16,182.26
+2025-06-12,Gwalior,Sports,Female,UPI,2,379.09,758.18,108.4
+2025-06-12,Jabalpur,Clothing,Female,Cash,6,654.03,3924.18,292.34
+2025-06-13,Jabalpur,Electronics,Female,E-wallet,5,1112.19,5560.95,614.52
+2025-06-13,Jabalpur,Beauty,Female,Card,6,478.15,2868.9,269.62
+2025-06-14,Indore,Sports,Male,Cash,2,767.34,1534.68,156.91
+2025-06-14,Ujjain,Clothing,Male,E-wallet,6,824.41,4946.46,822.29
+2025-06-14,Indore,Beauty,Male,Card,1,459.4,459.4,92.88
+2025-06-15,Bhopal,Electronics,Male,E-wallet,2,993.67,1987.34,322.11
+2025-06-16,Gwalior,Beauty,Female,E-wallet,1,317.54,317.54,32.1
+2025-06-16,Jabalpur,Clothing,Male,Card,7,921.49,6450.43,1329.67
+2025-06-16,Jabalpur,Home & Kitchen,Male,Cash,2,337.63,675.26,153.34
+2025-06-17,Jabalpur,Sports,Male,Cash,1,400.07,400.07,71.28
+2025-06-17,Gwalior,Electronics,Male,Cash,1,737.49,737.49,92.93
+2025-06-18,Bhopal,Clothing,Male,Cash,5,744.86,3724.3,250.39
+2025-06-18,Jabalpur,Sports,Female,Cash,4,598.8,2395.2,445.5
+2025-06-18,Jabalpur,Clothing,Female,Card,7,798.63,5590.41,1156.31
+2025-06-19,Gwalior,Home & Kitchen,Female,E-wallet,7,357.97,2505.79,348.51
+2025-06-20,Bhopal,Home & Kitchen,Female,UPI,3,641.1,1923.3,386.41
+2025-06-20,Gwalior,Sports,Female,Card,7,565.24,3956.68,581.73
+2025-06-20,Gwalior,Beauty,Female,Cash,7,297.37,2081.59,278.33
+2025-06-21,Gwalior,Electronics,Female,UPI,2,978.29,1956.58,277.35
+2025-06-21,Indore,Beauty,Female,Cash,5,352.17,1760.85,325.63
+2025-06-21,Jabalpur,Sports,Male,Card,4,506.48,2025.92,285.09
+2025-06-22,Bhopal,Electronics,Female,Card,3,900.08,2700.24,372.65
+2025-06-22,Bhopal,Electronics,Male,Cash,6,914.54,5487.24,513.63
+2025-06-23,Ujjain,Home & Kitchen,Male,UPI,3,338.79,1016.37,160.39
+2025-06-23,Bhopal,Electronics,Male,Card,6,586.76,3520.56,785.88
+2025-06-26,Gwalior,Home & Kitchen,Female,UPI,3,525.39,1576.17,327.16
+2025-06-27,Bhopal,Home & Kitchen,Male,Cash,3,666.46,1999.38,132.06
+2025-06-28,Bhopal,Electronics,Male,Card,1,719.34,719.34,90.34
+2025-06-29,Ujjain,Electronics,Male,Card,5,906.76,4533.8,406.07
+2025-06-29,Ujjain,Beauty,Female,Card,1,255.71,255.71,56.98
+2025-06-29,Jabalpur,Clothing,Male,Card,1,725.49,725.49,55.83
+2025-06-30,Indore,Electronics,Male,UPI,2,838.21,1676.42,267.46
+2025-06-30,Jabalpur,Electronics,Female,E-wallet,3,555.15,1665.45,117.22
+2025-06-30,Indore,Sports,Female,E-wallet,3,558.47,1675.41,376.97
+2025-07-01,Bhopal,Home & Kitchen,Male,UPI,3,355.7,1067.1,158.43
+2025-07-01,Bhopal,Clothing,Female,Cash,3,747.38,2242.14,382.57
+2025-07-02,Jabalpur,Home & Kitchen,Female,Card,4,422.91,1691.64,348.9
+2025-07-02,Jabalpur,Clothing,Male,Card,7,904.11,6328.77,957.56
+2025-07-02,Indore,Clothing,Female,Card,3,846.32,2538.96,152.79
+2025-07-02,Gwalior,Clothing,Female,Card,2,484.39,968.78,211.23
+2025-07-02,Indore,Sports,Female,Cash,1,411.99,411.99,53.88
+2025-07-04,Indore,Clothing,Male,UPI,5,597.42,2987.1,608.89
+2025-07-04,Bhopal,Sports,Female,Cash,7,763.76,5346.32,1139.04
+2025-07-04,Indore,Electronics,Female,Cash,6,710.76,4264.56,602.3
+2025-07-04,Jabalpur,Beauty,Male,UPI,5,357.34,1786.7,401.8
+2025-07-05,Jabalpur,Home & Kitchen,Male,Cash,1,408.77,408.77,89.2
+2025-07-07,Jabalpur,Clothing,Female,Cash,5,820.2,4101.0,322.47
+2025-07-07,Indore,Clothing,Male,Card,4,545.59,2182.36,503.4
+2025-07-08,Indore,Electronics,Female,Card,7,1203.73,8426.11,679.15
+2025-07-09,Ujjain,Beauty,Female,Card,3,492.05,1476.15,176.34
+2025-07-10,Jabalpur,Clothing,Female,UPI,5,508.75,2543.75,595.07
+2025-07-10,Bhopal,Beauty,Male,E-wallet,3,442.4,1327.2,158.01
+2025-07-11,Bhopal,Clothing,Female,Card,6,791.7,4750.2,504.48
+2025-07-12,Indore,Home & Kitchen,Female,UPI,2,597.76,1195.52,134.77
+2025-07-13,Ujjain,Clothing,Female,UPI,3,912.01,2736.03,531.62
+2025-07-13,Indore,Home & Kitchen,Male,Cash,4,712.16,2848.64,425.53
+2025-07-14,Indore,Clothing,Male,Cash,1,539.65,539.65,35.57
+2025-07-15,Jabalpur,Beauty,Male,Card,7,450.73,3155.11,593.14
+2025-07-17,Indore,Electronics,Male,E-wallet,5,725.98,3629.9,276.71
+2025-07-17,Bhopal,Clothing,Female,UPI,3,549.71,1649.13,144.79
+2025-07-18,Ujjain,Sports,Female,UPI,1,669.71,669.71,126.82
+2025-07-18,Bhopal,Electronics,Female,Card,3,1147.4,3442.2,508.26
+2025-07-19,Jabalpur,Home & Kitchen,Female,E-wallet,3,577.65,1732.95,291.89
+2025-07-19,Jabalpur,Sports,Female,Card,1,358.69,358.69,82.48
+2025-07-19,Gwalior,Beauty,Female,UPI,6,308.29,1849.74,326.77
+2025-07-19,Indore,Beauty,Female,UPI,3,397.24,1191.72,203.93
+2025-07-22,Gwalior,Beauty,Female,Card,2,406.48,812.96,180.64
+2025-07-22,Bhopal,Sports,Female,UPI,2,499.38,998.76,101.29
+2025-07-22,Bhopal,Electronics,Female,UPI,3,633.72,1901.16,357.44
+2025-07-22,Bhopal,Electronics,Female,Card,5,708.86,3544.3,228.93
+2025-07-22,Jabalpur,Clothing,Male,Card,2,911.06,1822.12,365.9
+2025-07-22,Indore,Beauty,Female,Card,4,477.51,1910.04,191.28
+2025-07-23,Gwalior,Clothing,Female,Card,2,558.94,1117.88,78.52
+2025-07-24,Ujjain,Beauty,Female,E-wallet,7,232.12,1624.84,110.05
+2025-07-26,Jabalpur,Clothing,Female,E-wallet,6,616.66,3699.96,627.46
+2025-07-26,Bhopal,Sports,Female,UPI,2,630.36,1260.72,172.5
+2025-07-26,Bhopal,Beauty,Female,E-wallet,3,269.78,809.34,76.68
+2025-07-27,Gwalior,Clothing,Male,UPI,2,857.55,1715.1,298.15
+2025-07-27,Indore,Electronics,Female,Card,6,994.38,5966.28,711.07
+2025-07-28,Jabalpur,Clothing,Male,Card,2,771.63,1543.26,209.56
+2025-07-28,Bhopal,Electronics,Female,UPI,1,677.16,677.16,78.02
+2025-07-29,Bhopal,Electronics,Male,Card,1,1116.28,1116.28,205.4
+2025-07-30,Gwalior,Beauty,Female,E-wallet,6,414.21,2485.26,464.55
+2025-07-31,Ujjain,Sports,Female,Cash,4,508.25,2033.0,193.28
+2025-07-31,Ujjain,Clothing,Female,UPI,4,763.16,3052.64,660.9
+2025-08-01,Gwalior,Home & Kitchen,Female,UPI,1,647.33,647.33,65.42
+2025-08-01,Gwalior,Sports,Male,Cash,1,778.08,778.08,103.07
+2025-08-02,Ujjain,Home & Kitchen,Male,Cash,3,628.99,1886.97,304.43
+2025-08-03,Gwalior,Home & Kitchen,Male,Card,5,415.31,2076.55,140.66
+2025-08-04,Gwalior,Home & Kitchen,Female,Cash,6,511.91,3071.46,261.79
+2025-08-04,Jabalpur,Home & Kitchen,Female,UPI,2,644.34,1288.68,308.74
+2025-08-05,Jabalpur,Clothing,Male,UPI,2,791.11,1582.22,312.91
+2025-08-06,Indore,Home & Kitchen,Male,E-wallet,1,628.21,628.21,149.74
+2025-08-06,Jabalpur,Electronics,Male,Card,1,931.21,931.21,106.37
+2025-08-07,Indore,Clothing,Male,Card,6,936.49,5618.94,365.8
+2025-08-07,Bhopal,Home & Kitchen,Male,E-wallet,7,562.72,3939.04,270.89
+2025-08-09,Indore,Electronics,Male,Cash,6,1083.9,6503.4,1377.1
+2025-08-09,Jabalpur,Electronics,Male,UPI,7,967.5,6772.5,1150.0
+2025-08-10,Indore,Home & Kitchen,Male,Cash,1,586.03,586.03,93.54
+2025-08-10,Gwalior,Home & Kitchen,Female,Card,6,375.74,2254.44,337.51
+2025-08-12,Indore,Clothing,Male,UPI,7,721.41,5049.87,1167.92
+2025-08-13,Gwalior,Sports,Male,E-wallet,4,513.82,2055.28,385.12
+2025-08-15,Ujjain,Electronics,Female,Card,7,671.48,4700.36,415.36
+2025-08-17,Gwalior,Beauty,Female,E-wallet,3,283.05,849.15,100.18
+2025-08-18,Indore,Electronics,Female,Cash,6,750.41,4502.46,363.21
+2025-08-18,Jabalpur,Clothing,Female,E-wallet,1,846.68,846.68,166.77
+2025-08-18,Indore,Electronics,Female,UPI,3,1218.39,3655.17,845.19
+2025-08-19,Gwalior,Home & Kitchen,Male,UPI,6,682.25,4093.5,265.4
+2025-08-19,Gwalior,Sports,Female,Cash,2,690.19,1380.38,240.73
+2025-08-20,Jabalpur,Sports,Female,UPI,5,547.44,2737.2,608.79
+2025-08-20,Ujjain,Beauty,Female,Cash,7,404.26,2829.82,650.61
+2025-08-20,Bhopal,Electronics,Male,UPI,6,633.07,3798.42,605.78
+2025-08-20,Jabalpur,Beauty,Female,UPI,5,253.57,1267.85,153.7
+2025-08-21,Jabalpur,Clothing,Male,UPI,1,848.61,848.61,90.28
+2025-08-23,Jabalpur,Home & Kitchen,Male,UPI,4,364.23,1456.92,202.36
+2025-08-23,Bhopal,Electronics,Female,Cash,1,942.71,942.71,198.63
+2025-08-24,Ujjain,Home & Kitchen,Female,E-wallet,2,615.28,1230.56,105.13
+2025-08-26,Bhopal,Clothing,Female,E-wallet,1,906.75,906.75,147.52
+2025-08-26,Jabalpur,Sports,Male,Cash,4,737.19,2948.76,336.12
+2025-08-27,Ujjain,Electronics,Female,Cash,4,802.8,3211.2,384.14
+2025-08-27,Gwalior,Home & Kitchen,Male,UPI,3,626.23,1878.69,195.52
+2025-08-29,Indore,Beauty,Male,Card,6,290.89,1745.34,124.82
+2025-08-30,Jabalpur,Electronics,Male,Card,5,860.45,4302.25,287.03
+2025-08-30,Jabalpur,Home & Kitchen,Female,UPI,1,644.81,644.81,42.9
+2025-08-30,Ujjain,Home & Kitchen,Male,Card,3,560.13,1680.39,202.66
+2025-08-30,Gwalior,Electronics,Male,Cash,6,1023.58,6141.48,735.23
+2025-08-31,Gwalior,Home & Kitchen,Male,Card,5,510.76,2553.8,591.82
+2025-08-31,Bhopal,Beauty,Female,UPI,6,489.88,2939.28,518.36
+2025-08-31,Ujjain,Electronics,Female,Card,6,1013.75,6082.5,1420.79
+2025-08-31,Indore,Beauty,Male,E-wallet,5,375.63,1878.15,427.8
+2025-09-01,Gwalior,Electronics,Female,Card,4,935.56,3742.24,448.42
+2025-09-01,Indore,Home & Kitchen,Male,Cash,3,713.8,2141.4,488.26
+2025-09-02,Indore,Electronics,Female,UPI,6,656.87,3941.22,432.01
+2025-09-02,Bhopal,Beauty,Female,UPI,6,491.86,2951.16,319.06
+2025-09-03,Jabalpur,Home & Kitchen,Female,Cash,4,423.9,1695.6,387.69
+2025-09-05,Gwalior,Home & Kitchen,Female,E-wallet,7,558.19,3907.33,880.55
+2025-09-05,Indore,Electronics,Male,Card,4,932.4,3729.6,379.58
+2025-09-05,Jabalpur,Clothing,Male,Card,5,627.6,3138.0,245.57
+2025-09-06,Gwalior,Sports,Male,Card,3,742.63,2227.89,475.33
+2025-09-07,Jabalpur,Home & Kitchen,Male,E-wallet,1,535.96,535.96,58.2
+2025-09-07,Ujjain,Clothing,Male,Cash,6,532.61,3195.66,416.23
+2025-09-07,Gwalior,Beauty,Male,E-wallet,2,442.45,884.9,84.16
+2025-09-08,Gwalior,Electronics,Female,Cash,1,802.9,802.9,173.78
+2025-09-09,Ujjain,Clothing,Male,Card,4,454.07,1816.28,236.63
+2025-09-11,Bhopal,Clothing,Male,UPI,7,775.66,5429.62,660.29
+2025-09-12,Jabalpur,Clothing,Female,E-wallet,4,523.71,2094.84,191.22
+2025-09-12,Gwalior,Home & Kitchen,Female,Card,7,443.96,3107.72,248.42
+2025-09-12,Gwalior,Clothing,Male,E-wallet,3,706.01,2118.03,385.57
+2025-09-13,Gwalior,Home & Kitchen,Male,Card,7,626.38,4384.66,775.61
+2025-09-13,Bhopal,Sports,Male,E-wallet,6,526.17,3157.02,369.15
+2025-09-13,Ujjain,Beauty,Female,Card,6,284.17,1705.02,337.0
+2025-09-14,Jabalpur,Electronics,Female,Card,6,707.77,4246.62,835.68
+2025-09-15,Ujjain,Sports,Female,E-wallet,5,640.12,3200.6,732.26
+2025-09-16,Gwalior,Electronics,Female,Card,2,1223.41,2446.82,538.26
+2025-09-19,Ujjain,Clothing,Female,Card,5,675.8,3379.0,372.19
+2025-09-19,Indore,Beauty,Male,E-wallet,5,456.89,2284.45,425.43
+2025-09-19,Ujjain,Clothing,Female,UPI,3,784.8,2354.4,508.69
+2025-09-19,Ujjain,Home & Kitchen,Male,Card,3,619.54,1858.62,386.39
+2025-09-20,Jabalpur,Sports,Female,UPI,5,730.0,3650.0,705.47
+2025-09-20,Ujjain,Electronics,Female,E-wallet,7,843.94,5907.58,495.4
+2025-09-21,Indore,Electronics,Male,UPI,6,1114.71,6688.26,1586.62
+2025-09-21,Bhopal,Electronics,Female,Card,3,940.92,2822.76,239.99
+2025-09-22,Bhopal,Beauty,Male,Cash,6,343.54,2061.24,291.06
+2025-09-23,Gwalior,Clothing,Female,E-wallet,1,937.75,937.75,73.45
+2025-09-24,Ujjain,Beauty,Male,Cash,3,368.39,1105.17,213.01
+2025-09-26,Bhopal,Sports,Female,UPI,1,642.88,642.88,39.74
+2025-09-26,Jabalpur,Clothing,Female,UPI,3,639.29,1917.87,378.15
+2025-09-26,Jabalpur,Clothing,Male,Cash,4,563.49,2253.96,194.65
+2025-09-26,Gwalior,Beauty,Female,Cash,5,271.47,1357.35,203.18
+2025-09-27,Indore,Clothing,Male,Card,1,745.66,745.66,103.69
+2025-09-27,Bhopal,Electronics,Female,E-wallet,3,859.33,2577.99,413.43
+2025-09-29,Gwalior,Home & Kitchen,Male,UPI,5,434.26,2171.3,214.53
+2025-09-29,Indore,Electronics,Male,Card,2,1014.26,2028.52,283.06
+2025-09-30,Bhopal,Electronics,Male,Card,6,653.95,3923.7,734.94
+2025-09-30,Gwalior,Home & Kitchen,Female,UPI,2,530.62,1061.24,238.54
+2025-09-30,Indore,Clothing,Female,Cash,5,857.15,4285.75,363.82
+2025-10-01,Indore,Clothing,Male,E-wallet,5,695.55,3477.75,626.18
+2025-10-01,Bhopal,Electronics,Female,UPI,2,768.55,1537.1,94.08
+2025-10-02,Indore,Clothing,Male,Card,7,743.68,5205.76,1114.41
+2025-10-04,Jabalpur,Home & Kitchen,Female,Cash,1,577.06,577.06,45.0
+2025-10-04,Bhopal,Sports,Female,Card,2,428.07,856.14,193.8
+2025-10-04,Gwalior,Clothing,Female,E-wallet,3,801.79,2405.37,293.93
+2025-10-05,Bhopal,Home & Kitchen,Male,Cash,3,587.93,1763.79,387.29
+2025-10-05,Gwalior,Clothing,Male,Card,5,701.97,3509.85,651.69
+2025-10-06,Gwalior,Clothing,Male,E-wallet,2,741.88,1483.76,89.99
+2025-10-07,Bhopal,Beauty,Female,UPI,3,480.2,1440.6,119.85
+2025-10-07,Ujjain,Beauty,Female,UPI,1,257.83,257.83,25.15
+2025-10-07,Bhopal,Electronics,Female,UPI,6,589.26,3535.56,631.52
+2025-10-08,Bhopal,Electronics,Female,Card,6,627.86,3767.16,596.82
+2025-10-08,Jabalpur,Electronics,Female,Cash,4,930.91,3723.64,432.02
+2025-10-09,Ujjain,Clothing,Female,Card,2,937.82,1875.64,261.44
+2025-10-09,Jabalpur,Electronics,Female,Card,2,1063.19,2126.38,399.63
+2025-10-10,Gwalior,Electronics,Female,UPI,6,1091.24,6547.44,1093.01
+2025-10-11,Bhopal,Clothing,Female,Cash,7,678.58,4750.06,998.44
+2025-10-12,Ujjain,Home & Kitchen,Female,E-wallet,6,492.91,2957.46,313.29
+2025-10-12,Indore,Clothing,Male,UPI,6,911.48,5468.88,654.44
+2025-10-12,Jabalpur,Electronics,Female,UPI,3,791.33,2373.99,183.19
+2025-10-12,Indore,Electronics,Male,Card,1,695.36,695.36,152.22
+2025-10-12,Bhopal,Electronics,Female,E-wallet,3,950.43,2851.29,298.71
+2025-10-13,Jabalpur,Beauty,Female,Cash,6,479.58,2877.48,335.36
+2025-10-13,Gwalior,Home & Kitchen,Male,E-wallet,3,652.13,1956.39,305.21
+2025-10-14,Gwalior,Sports,Male,E-wallet,3,452.89,1358.67,187.25
+2025-10-14,Bhopal,Clothing,Male,UPI,7,478.29,3348.03,628.12
+2025-10-14,Bhopal,Home & Kitchen,Female,Cash,7,337.4,2361.8,274.39
+2025-10-15,Jabalpur,Beauty,Female,UPI,4,413.58,1654.32,361.13
+2025-10-15,Indore,Sports,Female,E-wallet,6,380.96,2285.76,415.28
+2025-10-15,Bhopal,Electronics,Female,UPI,3,887.63,2662.89,538.75
+2025-10-17,Jabalpur,Clothing,Male,E-wallet,4,551.43,2205.72,379.57
+2025-10-17,Ujjain,Electronics,Female,UPI,1,1124.17,1124.17,83.5
+2025-10-18,Bhopal,Electronics,Male,E-wallet,7,1204.0,8428.0,1600.03
+2025-10-18,Jabalpur,Home & Kitchen,Female,Card,1,456.63,456.63,73.67
+2025-10-18,Bhopal,Beauty,Male,E-wallet,6,352.45,2114.7,133.07
+2025-10-18,Indore,Sports,Female,UPI,5,479.47,2397.35,420.42
+2025-10-20,Gwalior,Clothing,Male,UPI,2,833.75,1667.5,341.34
+2025-10-20,Jabalpur,Sports,Male,Card,2,565.57,1131.14,271.0
+2025-10-21,Ujjain,Electronics,Male,Cash,2,702.1,1404.2,306.29
+2025-10-21,Indore,Electronics,Female,UPI,7,825.95,5781.65,1300.24
+2025-10-21,Gwalior,Electronics,Male,UPI,1,656.93,656.93,141.54
+2025-10-21,Indore,Home & Kitchen,Female,UPI,5,508.09,2540.45,356.89
+2025-10-21,Jabalpur,Beauty,Male,UPI,1,493.64,493.64,114.86
+2025-10-22,Ujjain,Sports,Female,Cash,2,774.9,1549.8,191.39
+2025-10-23,Jabalpur,Sports,Male,Cash,2,604.06,1208.12,219.75
+2025-10-23,Jabalpur,Electronics,Female,Card,4,865.33,3461.32,426.58
+2025-10-25,Jabalpur,Home & Kitchen,Male,UPI,6,483.43,2900.58,534.62
+2025-10-26,Bhopal,Home & Kitchen,Female,E-wallet,4,594.41,2377.64,558.33
+2025-10-27,Bhopal,Electronics,Female,Card,6,769.87,4619.22,990.91
+2025-10-28,Ujjain,Home & Kitchen,Male,Card,5,601.74,3008.7,646.1
+2025-10-29,Jabalpur,Home & Kitchen,Male,UPI,1,594.66,594.66,76.45
+2025-10-29,Jabalpur,Beauty,Female,E-wallet,4,376.67,1506.68,176.96
+2025-10-29,Ujjain,Electronics,Male,UPI,2,867.2,1734.4,411.45
+2025-10-30,Indore,Sports,Male,UPI,2,398.67,797.34,149.06
+2025-10-30,Indore,Clothing,Female,UPI,6,596.23,3577.38,370.91
+2025-10-30,Jabalpur,Sports,Female,E-wallet,6,422.6,2535.6,309.16
+2025-10-30,Indore,Beauty,Male,Card,1,413.52,413.52,25.18
+2025-10-31,Indore,Sports,Male,UPI,3,594.73,1784.19,410.39
+2025-10-31,Gwalior,Clothing,Male,Card,2,440.12,880.24,203.84
+2025-10-31,Ujjain,Home & Kitchen,Female,UPI,4,460.32,1841.28,369.3
+2025-10-31,Gwalior,Sports,Male,UPI,3,625.31,1875.93,422.9
+2025-10-31,Gwalior,Electronics,Male,UPI,5,745.35,3726.75,444.99
+2025-11-01,Gwalior,Home & Kitchen,Male,UPI,5,436.29,2181.45,441.88
+2025-11-02,Ujjain,Electronics,Male,E-wallet,3,661.53,1984.59,397.48
+2025-11-03,Gwalior,Sports,Male,E-wallet,7,592.19,4145.33,985.88
+2025-11-03,Bhopal,Clothing,Male,UPI,4,457.53,1830.12,217.25
+2025-11-03,Bhopal,Electronics,Male,Card,3,1061.0,3183.0,202.69
+2025-11-04,Ujjain,Home & Kitchen,Female,Cash,5,569.16,2845.8,320.63
+2025-11-04,Ujjain,Home & Kitchen,Male,UPI,4,345.38,1381.52,294.33
+2025-11-05,Ujjain,Clothing,Female,E-wallet,4,761.95,3047.8,357.36
+2025-11-06,Indore,Home & Kitchen,Female,UPI,4,434.83,1739.32,363.19
+2025-11-07,Ujjain,Beauty,Female,E-wallet,3,457.0,1371.0,268.9
+2025-11-07,Indore,Home & Kitchen,Male,E-wallet,5,690.61,3453.05,526.86
+2025-11-08,Bhopal,Beauty,Female,UPI,4,332.58,1330.32,232.95
+2025-11-09,Ujjain,Electronics,Female,UPI,5,921.95,4609.75,277.27
+2025-11-09,Indore,Home & Kitchen,Male,Card,7,689.88,4829.16,455.27
+2025-11-09,Bhopal,Beauty,Male,UPI,1,366.54,366.54,29.39
+2025-11-10,Ujjain,Electronics,Female,Card,7,952.01,6664.07,1140.9
+2025-11-10,Bhopal,Clothing,Male,Cash,6,551.08,3306.48,659.3
+2025-11-12,Ujjain,Clothing,Male,Card,1,664.41,664.41,50.19
+2025-11-13,Ujjain,Home & Kitchen,Male,UPI,6,723.83,4342.98,764.7
+2025-11-13,Indore,Clothing,Male,E-wallet,1,932.76,932.76,56.38
+2025-11-16,Ujjain,Home & Kitchen,Male,UPI,1,556.87,556.87,126.32
+2025-11-16,Indore,Sports,Male,E-wallet,1,362.7,362.7,82.21
+2025-11-18,Bhopal,Sports,Male,Card,7,464.91,3254.37,552.26
+2025-11-20,Indore,Home & Kitchen,Male,Cash,5,626.64,3133.2,474.07
+2025-11-21,Gwalior,Electronics,Female,Card,2,1026.65,2053.3,487.38
+2025-11-21,Jabalpur,Electronics,Female,Cash,4,727.36,2909.44,684.31
+2025-11-22,Gwalior,Clothing,Female,Card,2,632.72,1265.44,222.28
+2025-11-22,Jabalpur,Clothing,Female,Card,7,785.68,5499.76,805.77
+2025-11-22,Indore,Sports,Female,UPI,3,761.91,2285.73,279.59
+2025-11-22,Gwalior,Beauty,Male,Card,5,489.29,2446.45,340.23
+2025-11-23,Ujjain,Home & Kitchen,Male,Card,1,611.45,611.45,118.71
+2025-11-23,Ujjain,Electronics,Male,E-wallet,2,767.22,1534.44,256.8
+2025-11-24,Bhopal,Electronics,Male,Card,7,1153.39,8073.73,1160.92
+2025-11-24,Bhopal,Beauty,Male,Card,6,454.94,2729.64,654.82
+2025-11-25,Bhopal,Home & Kitchen,Female,UPI,2,373.92,747.84,45.46
+2025-11-26,Bhopal,Sports,Male,Card,7,719.13,5033.91,599.3
+2025-11-26,Gwalior,Beauty,Female,E-wallet,1,480.1,480.1,57.38
+2025-11-27,Bhopal,Beauty,Female,Cash,3,459.18,1377.54,184.24
+2025-11-27,Indore,Home & Kitchen,Male,Card,4,469.23,1876.92,282.55
+2025-11-28,Bhopal,Sports,Female,Cash,1,651.15,651.15,147.22
+2025-12-01,Bhopal,Sports,Female,Cash,1,518.18,518.18,109.22
+2025-12-01,Bhopal,Beauty,Female,Card,4,407.75,1631.0,201.75
+2025-12-01,Jabalpur,Clothing,Male,UPI,7,635.88,4451.16,909.12
+2025-12-03,Bhopal,Clothing,Male,Card,5,785.09,3925.45,577.78
+2025-12-03,Jabalpur,Sports,Female,Cash,2,741.61,1483.22,248.59
+2025-12-04,Ujjain,Clothing,Female,UPI,3,547.97,1643.91,335.57
+2025-12-04,Ujjain,Clothing,Male,UPI,3,762.53,2287.59,474.95
+2025-12-04,Jabalpur,Home & Kitchen,Female,Card,5,423.39,2116.95,308.81
+2025-12-04,Gwalior,Clothing,Male,Card,7,646.79,4527.53,727.41
+2025-12-04,Indore,Home & Kitchen,Male,Card,1,598.6,598.6,47.62
+2025-12-05,Indore,Clothing,Female,E-wallet,4,563.14,2252.56,265.85
+2025-12-05,Indore,Beauty,Female,E-wallet,3,401.96,1205.88,157.45
+2025-12-05,Ujjain,Home & Kitchen,Male,UPI,4,363.77,1455.08,236.79
+2025-12-05,Ujjain,Home & Kitchen,Male,Card,5,440.12,2200.6,472.99
+2025-12-07,Ujjain,Home & Kitchen,Male,E-wallet,3,339.49,1018.47,238.34
+2025-12-07,Indore,Electronics,Female,UPI,1,652.15,652.15,108.18
+2025-12-08,Indore,Electronics,Male,Card,7,622.76,4359.32,941.31
+2025-12-08,Indore,Clothing,Male,Card,7,518.08,3626.56,547.88
+2025-12-08,Ujjain,Home & Kitchen,Male,UPI,6,399.66,2397.96,398.38
+2025-12-09,Gwalior,Electronics,Male,Cash,5,560.76,2803.8,211.41
+2025-12-09,Jabalpur,Home & Kitchen,Male,Cash,3,620.67,1862.01,325.8
+2025-12-09,Jabalpur,Clothing,Male,Card,7,436.03,3052.21,697.93
+2025-12-10,Indore,Home & Kitchen,Female,Card,4,527.06,2108.24,210.72
+2025-12-12,Jabalpur,Electronics,Female,Card,2,986.2,1972.4,445.82
+2025-12-13,Bhopal,Beauty,Male,UPI,3,358.86,1076.58,212.25
+2025-12-14,Gwalior,Sports,Female,Card,7,610.63,4274.41,657.14
+2025-12-15,Bhopal,Clothing,Male,UPI,1,455.89,455.89,89.44
+2025-12-15,Ujjain,Clothing,Male,UPI,5,877.88,4389.4,720.85
+2025-12-16,Indore,Beauty,Male,Card,1,359.63,359.63,67.53
+2025-12-17,Jabalpur,Beauty,Female,UPI,4,310.21,1240.84,219.15
+2025-12-17,Indore,Electronics,Male,Card,1,862.75,862.75,194.47
+2025-12-17,Gwalior,Clothing,Male,Card,3,620.22,1860.66,343.36
+2025-12-18,Gwalior,Home & Kitchen,Female,UPI,1,397.61,397.61,61.41
+2025-12-18,Gwalior,Sports,Male,Card,4,423.16,1692.64,101.75
+2025-12-18,Indore,Home & Kitchen,Male,Card,5,705.27,3526.35,803.03
+2025-12-19,Bhopal,Electronics,Male,E-wallet,6,636.72,3820.32,774.55
+2025-12-20,Gwalior,Home & Kitchen,Male,Cash,3,438.01,1314.03,225.5
+2025-12-20,Indore,Electronics,Female,E-wallet,6,955.25,5731.5,1254.66
+2025-12-20,Bhopal,Beauty,Male,Cash,2,292.61,585.22,41.7
+2025-12-20,Jabalpur,Sports,Female,Card,5,745.61,3728.05,556.18
+2025-12-21,Indore,Sports,Male,UPI,6,619.68,3718.08,830.23
+2025-12-21,Jabalpur,Beauty,Female,Card,2,387.54,775.08,182.59
+2025-12-22,Jabalpur,Sports,Female,UPI,6,431.39,2588.34,436.85
+2025-12-22,Indore,Electronics,Male,UPI,6,1087.62,6525.72,701.69
+2025-12-23,Jabalpur,Clothing,Female,UPI,5,929.29,4646.45,1022.56
+2025-12-24,Indore,Electronics,Male,UPI,2,925.79,1851.58,140.02
+2025-12-25,Bhopal,Sports,Male,Cash,1,580.66,580.66,66.54
+2025-12-26,Indore,Electronics,Male,Card,2,904.66,1809.32,203.81
+2025-12-28,Gwalior,Home & Kitchen,Female,UPI,4,521.64,2086.56,252.4
+2025-12-28,Bhopal,Electronics,Male,Card,5,692.77,3463.85,703.84
+2025-12-29,Indore,Clothing,Male,E-wallet,3,696.82,2090.46,436.62
+2025-12-29,Gwalior,Clothing,Female,UPI,2,837.21,1674.42,207.86
+2025-12-30,Indore,Electronics,Male,UPI,2,1031.49,2062.98,479.92
+2025-12-30,Ujjain,Home & Kitchen,Male,UPI,1,572.07,572.07,135.47
+2025-12-31,Indore,Clothing,Male,E-wallet,7,941.58,6591.06,477.12
